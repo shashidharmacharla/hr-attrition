@@ -1,0 +1,11 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,Attrition,AttritionType,YearsAtCompany,Gender,HireDate,LeaveDate,PerformanceRating,EducationLevel,MaritalStatus,BusinessTravel,YearsInCurrentRole
+1,34,Sales,Sales Executive,45000,Yes,Voluntary,5,Male,2018-01-10,2023-06-15,3,Bachelor,Single,Travel_Rarely,2
+2,28,HR,HR Executive,30000,No,,2,Female,2021-04-20,,4,Master,Married,Travel_Frequently,1
+3,45,IT,Software Engineer,75000,No,,10,Male,2012-11-01,,5,Doctorate,Married,Non-Travel,7
+4,39,Sales,Sales Manager,65000,Yes,Involuntary,8,Female,2015-06-10,2023-01-20,2,Bachelor,Divorced,Travel_Rarely,3
+5,26,IT,Data Analyst,40000,No,,1,Male,2023-03-05,,3,Bachelor,Single,Travel_Frequently,1
+6,50,HR,HR Manager,80000,No,,20,Female,2003-08-15,,4,Master,Married,Travel_Rarely,10
+7,31,Sales,Sales Executive,42000,Yes,Voluntary,4,Male,2019-02-28,2023-03-10,3,Bachelor,Single,Travel_Frequently,2
+8,29,IT,Software Engineer,60000,No,,3,Female,2020-07-11,,4,Master,Single,Non-Travel,3
+9,41,Sales,Sales Manager,70000,No,,15,Male,2008-10-19,,5,Bachelor,Married,Travel_Rarely,7
+10,35,IT,Data Scientist,90000,No,,7,Female,2016-01-21,,4,Doctorate,Married,Travel_Frequently,5
